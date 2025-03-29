@@ -35,7 +35,7 @@ export default function TermsPage() {
 
               <h2 className="mt-12 mb-4 text-2xl font-display font-semibold">3. Diensten en Abonnement</h2>
               <ol>
-                <li>WebRevolt biedt een alles-in-één pakket aan voor websites tegen een vast maandelijks bedrag van €29,99 inclusief BTW.</li>
+                <li>WebRevolt biedt een alles-in-één pakket aan voor websites tegen een vast maandelijks bedrag van €29,99 exclusief BTW.</li>
                 <li>Het abonnement omvat websiteontwerp, hosting, domeinregistratie, onderhoud en updates, en basis SEO-optimalisatie.</li>
                 <li>De minimale abonnementsperiode bedraagt 12 maanden, tenzij anders overeengekomen.</li>
                 <li>Na de minimale periode is de overeenkomst maandelijks opzegbaar met een opzegtermijn van één maand.</li>
