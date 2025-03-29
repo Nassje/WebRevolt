@@ -28,7 +28,7 @@ export default function ContactForm() {
                 
                 <div className="space-y-6 mb-8">
                   <a 
-                    href="https://wa.me/31612345678" 
+                    href="https://wa.me/31641941976" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="inline-flex items-center px-5 py-4 w-full bg-green-500 hover:bg-green-600 text-white rounded-lg transition-all shadow-lg hover:shadow-xl group"
